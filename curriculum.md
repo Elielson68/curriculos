@@ -80,6 +80,12 @@ CESUPA | Fev 2019 - Jan 2023
 
 ---
 
+**Idiomas:**  
+▸ Português (Nativo)  
+▸ Inglês (Intermediário - Proeficiência técnica)
+
+---
+
 ## **Objetivo**  
 Busco transição para **Sênior/Arquiteto Unity**, aplicando:  
 - Expertise em **arquitetura modular e otimização**  
