@@ -19,7 +19,7 @@ Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:
 ## **Experiência Profissional**  
 
 ### **Desenvolvedor Unity Pleno (Atuando como Sênior)**  
-**Ambra Gaming** | Jul 2021 - Presente (3.5 anos)  
+**Ambra Gaming** 
 *Equipe de 8 devs | Promovido após 1 ano | Responsabilidades de Sênior*  
 
 **Arquitetura de Sistemas:**  

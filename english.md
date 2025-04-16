@@ -7,7 +7,7 @@
 ---
 
 ## **Professional Summary**  
-Unity Developer with **3.5 years of proven experience** at Ambra Gaming, demonstrating senior-level expertise in:  
+Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:  
 ✓ **Complex system architecture** (UI, networking, data persistence)  
 ✓ **Performance optimization** (90%+ FPS gain, 3k→120 lines refactoring)  
 ✓ **Technical leadership** (mentored 5 senior + 3 junior developers)  
