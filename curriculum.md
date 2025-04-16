@@ -8,11 +8,11 @@
 
 ## **Resumo Executivo**  
 Desenvolvedor Unity **Pleno com expertise Sênior** (3.5 anos na Ambra Gaming), especialista em:  
-✓ **Arquitetura de sistemas** complexos (7+ projetos)  
-✓ **Otimização extrema** (90%+ de ganho, refatoração de 3k→120 linhas)  
-✓ **Liderança técnica informal** (mentoria para 5 seniors + 3 juniors)  
+✓ **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
+✓ **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
+✓ **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
 ✓ **Padrões de código** (SOLID, Clean Code, documentação rigorosa)
-✓ **Automação de workflows** (CI/CD, DevOps, ferramentas customizadas)  
+✓ **Automação** (CI/CD, ferramentas customizadas)  
 
 ---
 
@@ -22,62 +22,67 @@ Desenvolvedor Unity **Pleno com expertise Sênior** (3.5 anos na Ambra Gaming), 
 **Ambra Gaming** | Jul 2021 - Presente (3.5 anos)  
 *Equipe de 8 devs | Promovido após 1 ano | Responsabilidades de Sênior*  
 
+**Arquitetura de Sistemas:**  
+- 🎛️ **Pipeline de Assets**:  
+  - Implementação de **Addressables** (redução de 70% no load time)  
+  - Criação de **AssetBundles** dinâmicos  
+- 🕹️ **Sistema de Input**:  
+  - Arquitetura com **Unity Input System** (10+ control schemes)  
+  - Integração com **UI Toolkit**  
+- 🌐 **Sistema de Rede**:  
+  - Comunicação em tempo real com **Socket.IO** (latência <50ms)  
+  - Padrão **Observer** para sincronização  
+
 **Liderança Técnica:**  
-- 👨🏫 **Mentor principal** para 5 devs seniors (onboarding) e 3 juniors  
-- 📚 **Padronização de código** e documentação para todo o time  
-- 🧩 **Arquiteto informal** de sistemas críticos  
+- 👨🏫 Mentoria para **5 devs seniors** (onboarding técnico)  
+- 📦 Desenvolvimento de **pacotes customizados** para workflow da equipe  
+- 🧩 **Arquitetura modular** com:  
+  - **Zenject** (DI)  
+  - **Assembly Definitions**  
+  - **Timeline** para cutscenes  
 
-**Conquistas Técnicas:**  
-- 🚀 **Redução drástica de complexidade**:  
-  - Refatorou 3 scripts (1k+ linhas cada) → **1 método de 120 linhas**  
-  - Melhoria de **90% em performance** comprovada (30 → 120 fps)  
-- 🔐 **Sistemas-chave**:  
-  - Salvamento criptografado (15+ tipos de dados)  
-  - Rede em tempo real (**Socket.IO**)  
-  - UI Toolkit (**30+ telas**)  
-
-**Automação:**  
-- 🤖 **100+ PRs automatizados** via Python/Qt5  
-- ⚡ **Redução de 80%** no tempo de build (Bash CI/CD)
-- Pacotes customizados para workflow da equipe
+**Conquistas:**  
+- ⚡ **Otimização**:  
+  - 90%+ ganho de performance (30 → 120 fps)  
+  - Refatoração de **3k linhas → 120 linhas**  
+- 🤖 **Automação**:  
+  - Ferramenta Python/Qt5 para **100+ PRs automatizados**  
+  - Scripts Bash para CI/CD (**80% faster builds**)  
 
 ---
 
 ## **Habilidades Técnicas**  
 
-**Unity Avançado:**  
-▸ UI Toolkit • Addressables • Input System • Profiler  
-▸ Zenject (DI) • Socket.IO • Unit Testing  
+**Unity Expertise:**  
+▸ UI Toolkit • Addressables • Input System • Timeline  
+▸ Zenject • Socket.IO • Unit Testing • Profiler  
+▸ AssetBundles • Animation • ECS Concepts  
 
 **Arquitetura:**  
-▸ SOLID • Clean Code • Documentação • Observer  
-▸ Modular (Assembly Definitions)  
+▸ SOLID • Clean Code • Documentação  
+▸ Modular (Assembly Definitions) • DI Patterns  
 
 **DevOps:**  
-▸ Azure DevOps • CI/CD Pipelines • Bash Scripting  
-▸ Build Automation • Python Automation  
-
-**Destaques:**  
-▸ **Otimização extrema** (GC, ECS concepts)  
-▸ **Liderança técnica informal**  
-▸ **Redução radical de complexidade**  
+▸ Azure DevOps • CI/CD Pipelines • Bash  
+▸ Build Automation • Python Tools  
 
 **Outras:**  
-▸ C# (.NET 6) • Python • PostgreSQL • MongoDB  
+▸ C# (.NET 6) • Python • PostgreSQL  
 ▸ Git • Linux • Performance Optimization  
 
 ---
 
 ## **Formação**  
 **Bacharelado em Ciência da Computação**  
-CESUPA | Fev 2019 - Jan 2023  
-✓ Formado com honras (2º lugar da turma)  
-✓ Ministrou workshop de Unity para 50+ alunos  
+CESUPA | Fev 2019 - Jan 2023 
+✓ **2º lugar da turma** (colação de grau)  
+✓ Ministrou workshops de Unity para 20+ alunos
 
 ---
 
 ## **Objetivo**  
-Busco transição para **Sênior/Arquiteto/Especialista Unity**, aplicando:  
-- Minha experiência em **arquitetura de sistemas complexos**  
-- Habilidade em **mentoria técnica**  
-- Paixão por **código limpo e documentado**  
+Busco transição para **Sênior/Arquiteto Unity**, aplicando:  
+- Expertise em **arquitetura modular e otimização**  
+- Experiência em **mentoria técnica**  
+- Visão **DevOps e automação**
+- Paixão por **código limpo e documentado**    
