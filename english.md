@@ -19,27 +19,27 @@ Unity Developer with **3.5 years of proven experience** at Ambra Gaming, demonst
 ## **Professional Experience**  
 
 ### **Unity Mid-Level Developer (Performing as Senior)**  
-**Ambra Gaming** | Jul 2021 - Present (3.5 years)  
+**Ambra Gaming**
 *8-member dev team | Promoted after 1 year | Senior-level responsibilities*  
 
 **System Architecture:**  
 - 🎛️ **Asset Pipeline**:  
   - Implemented **Addressables** (70% load time reduction)  
-  - Dynamic **AssetBundles** implementation  
+  - Dynamic **AssetBundles** implementation
 - 🕹️ **Input System**:  
   - **Unity Input System** architecture (10+ control schemes)  
-  - **UI Toolkit** integration  
+  - **UI Toolkit** integration
 - 🌐 **Networking**:  
   - Real-time communication with **Socket.IO** (<50ms latency)  
-  - **Observer pattern** for data synchronization  
+  - **Observer pattern** for data synchronization
 
 **Technical Leadership:**  
 - 👨🏫 Mentored **5 senior developers** (technical onboarding)  
-- 📦 Developed **custom packages** for team workflow  
+- 📦 Developed **custom packages** for team workflow
 - 🧩 **Modular architecture** using:  
   - **Zenject** (Dependency Injection)  
   - **Assembly Definitions**  
-  - **Timeline** for cutscenes  
+  - **Timeline** for cutscenes
 
 **Key Achievements:**  
 - ⚡ **Optimization**:  
@@ -54,39 +54,39 @@ Unity Developer with **3.5 years of proven experience** at Ambra Gaming, demonst
 ## **Technical Skills**  
 
 **Unity Expertise:**  
-▸ UI Toolkit • Addressables • Input System • Timeline  
-▸ Zenject • Socket.IO • Unit Testing • Profiler  
-▸ AssetBundles • Animation • ECS Concepts  
+▸ UI Toolkit • Addressables • Input System • Timeline
+▸ Zenject • Socket.IO • Unit Testing • Profiler
+▸ AssetBundles • Animation • ECS Concepts
 
 **Software Architecture:**  
-▸ SOLID • Clean Code • Documentation  
-▸ Modular Design • DI Patterns  
+▸ SOLID • Clean Code • Documentation
+▸ Modular Design • DI Patterns
 
 **DevOps:**  
-▸ Azure DevOps • CI/CD Pipelines • Bash  
-▸ Build Automation • Python Tooling  
+▸ Azure DevOps • CI/CD Pipelines • Bash
+▸ Build Automation • Python Tooling
 
 **Languages:**  
 ▸ Portuguese (Native)  
 ▸ English (Intermediate - Technical Proficiency)
 
 **Other:**  
-▸ C# (.NET 6) • Python • PostgreSQL  
-▸ Git • Linux • Performance Optimization  
+▸ C# (.NET 6) • Python • PostgreSQL
+▸ Git • Linux • Performance Optimization
 
 ---
 
 ## **Education**  
 **B.Sc. in Computer Science**  
-CESUPA | Feb 2019 - Jan 2023  
+CESUPA | Feb 2019 - Jan 2023
 ✓ Graduated with honors (2nd in class)  
-✓ Conducted Unity workshops for 20+ students  
+✓ Conducted Unity workshops for 20+ students
 
 ---
 
 ## **Career Objective**  
 Seeking transition to **Senior/Architect Unity** roles to leverage:  
 - Expertise in **modular architecture and optimization**  
-- Proven **technical mentorship** experience  
-- **DevOps and automation** mindset  
+- Proven **technical mentorship** experience
+- **DevOps and automation** mindset
 - Passion for **clean, documented code**  

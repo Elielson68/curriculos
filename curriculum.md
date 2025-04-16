@@ -7,7 +7,7 @@
 ---
 
 ## **Resumo Executivo**  
-Desenvolvedor Unity **Pleno com expertise Sênior** (3.5 anos na Ambra Gaming), especialista em:  
+Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:  
 ✓ **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
 ✓ **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
 ✓ **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
@@ -25,21 +25,21 @@ Desenvolvedor Unity **Pleno com expertise Sênior** (3.5 anos na Ambra Gaming), 
 **Arquitetura de Sistemas:**  
 - 🎛️ **Pipeline de Assets**:  
   - Implementação de **Addressables** (redução de 70% no load time)  
-  - Criação de **AssetBundles** dinâmicos  
+  - Criação de **AssetBundles** dinâmicos
 - 🕹️ **Sistema de Input**:  
   - Arquitetura com **Unity Input System** (10+ control schemes)  
   - Integração com **UI Toolkit**  
 - 🌐 **Sistema de Rede**:  
   - Comunicação em tempo real com **Socket.IO** (latência <50ms)  
-  - Padrão **Observer** para sincronização  
+  - Padrão **Observer** para sincronização
 
 **Liderança Técnica:**  
 - 👨🏫 Mentoria para **5 devs seniors** (onboarding técnico)  
-- 📦 Desenvolvimento de **pacotes customizados** para workflow da equipe  
+- 📦 Desenvolvimento de **pacotes customizados** para workflow da equipe
 - 🧩 **Arquitetura modular** com:  
   - **Zenject** (DI)  
   - **Assembly Definitions**  
-  - **Timeline** para cutscenes  
+  - **Timeline** para cutscenes
 
 **Conquistas:**  
 - ⚡ **Otimização**:  
@@ -54,21 +54,21 @@ Desenvolvedor Unity **Pleno com expertise Sênior** (3.5 anos na Ambra Gaming), 
 ## **Habilidades Técnicas**  
 
 **Unity Expertise:**  
-▸ UI Toolkit • Addressables • Input System • Timeline  
-▸ Zenject • Socket.IO • Unit Testing • Profiler  
-▸ AssetBundles • Animation • ECS Concepts  
+▸ UI Toolkit • Addressables • Input System • Timeline
+▸ Zenject • Socket.IO • Unit Testing • Profiler
+▸ AssetBundles • Animation • ECS Concepts
 
 **Arquitetura:**  
-▸ SOLID • Clean Code • Documentação  
-▸ Modular (Assembly Definitions) • DI Patterns  
+▸ SOLID • Clean Code • Documentação
+▸ Modular (Assembly Definitions) • DI Patterns
 
 **DevOps:**  
-▸ Azure DevOps • CI/CD Pipelines • Bash  
-▸ Build Automation • Python Tools  
+▸ Azure DevOps • CI/CD Pipelines • Bash
+▸ Build Automation • Python Tools
 
 **Outras:**  
-▸ C# (.NET 6) • Python • PostgreSQL  
-▸ Git • Linux • Performance Optimization  
+▸ C# (.NET 6) • Python • PostgreSQL
+▸ Git • Linux • Performance Optimization
 
 ---
 
