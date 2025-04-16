@@ -1,18 +1,18 @@
 # **Elielson Barbosa**  
 **Desenvolvedor Unity Pleno | Especialista em Arquitetura | Tech Lead Informal**  
-📍 Brazil | ✉ [elielsonbr.com@gmail.com](mailto:elielsonbr.com@gmail.com)  
-📞 [+55 91 98476-2085](https://api.whatsapp.com/send/?phone=5591982350030)  
-👨💻 [Github](https://github.com/Elielson68) | 👔 [Linkedin](https://www.linkedin.com/in/elielson-barbosa/)  
+Brazil | [elielsonbr.com@gmail.com](mailto:elielsonbr.com@gmail.com)  
+[+55 91 98476-2085](https://api.whatsapp.com/send/?phone=5591982350030)  
+[Github](https://github.com/Elielson68) | [Linkedin](https://www.linkedin.com/in/elielson-barbosa/)  
 
 ---
 
 ## **Resumo Executivo**  
 Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:  
-✓ **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
-✓ **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
-✓ **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
-✓ **Padrões de código** (SOLID, Clean Code, documentação rigorosa)
-✓ **Automação** (CI/CD, ferramentas customizadas)  
+- **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
+- **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
+- **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
+- **Padrões de código** (SOLID, Clean Code, documentação rigorosa)
+- **Automação** (CI/CD, ferramentas customizadas)  
 
 ---
 
@@ -23,29 +23,29 @@ Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:
 *Equipe de 8 devs | Promovido após 1 ano | Responsabilidades de Sênior*  
 
 **Arquitetura de Sistemas:**  
-- 🎛️ **Pipeline de Assets**:  
+- **Pipeline de Assets**:  
   - Implementação de **Addressables** (redução de 70% no load time)  
   - Criação de **AssetBundles** dinâmicos
-- 🕹️ **Sistema de Input**:  
+- **Sistema de Input**:  
   - Arquitetura com **Unity Input System** (10+ control schemes)  
   - Integração com **UI Toolkit**  
-- 🌐 **Sistema de Rede**:  
+- **Sistema de Rede**:  
   - Comunicação em tempo real com **Socket.IO** (latência <50ms)  
   - Padrão **Observer** para sincronização
 
 **Liderança Técnica:**  
-- 👨🏫 Mentoria para **5 devs seniors** (onboarding técnico)  
-- 📦 Desenvolvimento de **pacotes customizados** para workflow da equipe
-- 🧩 **Arquitetura modular** com:  
+- Mentoria para **5 devs seniors** (onboarding técnico)  
+- Desenvolvimento de **pacotes customizados** para workflow da equipe
+- **Arquitetura modular** com:  
   - **Zenject** (DI)  
   - **Assembly Definitions**  
   - **Timeline** para cutscenes
 
 **Conquistas:**  
-- ⚡ **Otimização**:  
+- **Otimização**:  
   - 90%+ ganho de performance (30 → 120 fps)  
   - Refatoração de **3k linhas → 120 linhas**  
-- 🤖 **Automação**:  
+- **Automação**:  
   - Ferramenta Python/Qt5 para **100+ PRs automatizados**  
   - Scripts Bash para CI/CD (**80% faster builds**)  
 

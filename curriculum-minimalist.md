@@ -1,18 +1,18 @@
 # **Elielson Barbosa**  
 **Unity Mid-Level Developer | Architecture Specialist | Informal Tech Lead**  
-📍 Brazil | ✉ [elielsonbr.com@gmail.com](mailto:elielsonbr.com@gmail.com)  
-📞 [+55 91 98476-2085](https://api.whatsapp.com/send/?phone=5591982350030)  
-👨💻 [Github](https://github.com/Elielson68) | 👔 [Linkedin](https://www.linkedin.com/in/elielson-barbosa/)  
+Brazil | [elielsonbr.com@gmail.com](mailto:elielsonbr.com@gmail.com)  
+[+55 91 98476-2085](https://api.whatsapp.com/send/?phone=5591982350030)  
+[Github](https://github.com/Elielson68) | [Linkedin](https://www.linkedin.com/in/elielson-barbosa/)  
 
 ---
 
 ## **Professional Summary**  
 Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:  
-✓ **Complex system architecture** (UI, networking, data persistence)  
-✓ **Performance optimization** (90%+ FPS gain, 3k→120 lines refactoring)  
-✓ **Technical leadership** (mentored 5 senior + 3 junior developers)  
-✓ **Code quality** (SOLID principles, Clean Code, thorough documentation)  
-✓ **Automation** (CI/CD pipelines, custom tooling)  
+- **Complex system architecture** (UI, networking, data persistence)  
+- **Performance optimization** (90%+ FPS gain, 3k→120 lines refactoring)  
+- **Technical leadership** (mentored 5 senior + 3 junior developers)  
+- **Code quality** (SOLID principles, Clean Code, thorough documentation)  
+- **Automation** (CI/CD pipelines, custom tooling)  
 
 ---
 
@@ -23,29 +23,29 @@ Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:
 *8-member dev team | Promoted after 1 year | Senior-level responsibilities*  
 
 **System Architecture:**  
-- 🎛️ **Asset Pipeline**:  
+- **Asset Pipeline**:  
   - Implemented **Addressables** (70% load time reduction)  
   - Dynamic **AssetBundles** implementation
-- 🕹️ **Input System**:  
+- **Input System**:  
   - **Unity Input System** architecture (10+ control schemes)  
   - **UI Toolkit** integration
-- 🌐 **Networking**:  
+- **Networking**:  
   - Real-time communication with **Socket.IO** (<50ms latency)  
   - **Observer pattern** for data synchronization
 
 **Technical Leadership:**  
-- 👨🏫 Mentored **5 senior developers** (technical onboarding)  
-- 📦 Developed **custom packages** for team workflow
-- 🧩 **Modular architecture** using:  
+- Mentored **5 senior developers** (technical onboarding)  
+- Developed **custom packages** for team workflow
+- **Modular architecture** using:  
   - **Zenject** (Dependency Injection)  
   - **Assembly Definitions**  
   - **Timeline** for cutscenes
 
 **Key Achievements:**  
-- ⚡ **Optimization**:  
+- **Optimization**:  
   - 90%+ performance gain (30 → 120 FPS)  
   - Refactored **3k lines → 120 lines** (single method)  
-- 🤖 **Automation**:  
+- **Automation**:  
   - Python/Qt5 tool for **100+ automated PRs**  
   - Bash scripts for CI/CD (**80% faster builds**)  
 
