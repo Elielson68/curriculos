@@ -66,6 +66,10 @@ Unity Developer with **3.5 years of proven experience** at Ambra Gaming, demonst
 ▸ Azure DevOps • CI/CD Pipelines • Bash  
 ▸ Build Automation • Python Tooling  
 
+**Languages:**  
+▸ Portuguese (Native)  
+▸ English (Intermediate - Technical Proficiency)
+
 **Other:**  
 ▸ C# (.NET 6) • Python • PostgreSQL  
 ▸ Git • Linux • Performance Optimization  
