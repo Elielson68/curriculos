@@ -1,94 +1,92 @@
 # **Elielson Barbosa**  
-**Desenvolvedor Unity Pleno | Especialista em Arquitetura | Tech Lead Informal**  
+**Unity Mid-Level Developer | Architecture Specialist | Informal Tech Lead**  
 📍 Brazil | ✉ [elielsonbr.com@gmail.com](mailto:elielsonbr.com@gmail.com)  
 📞 [+55 91 98476-2085](https://api.whatsapp.com/send/?phone=5591982350030)  
 👨💻 [Github](https://github.com/Elielson68) | 👔 [Linkedin](https://www.linkedin.com/in/elielson-barbosa/)  
 
 ---
 
-## **Resumo Executivo**  
-Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:  
-✓ **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
-✓ **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
-✓ **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
-✓ **Padrões de código** (SOLID, Clean Code, documentação rigorosa)
-✓ **Automação** (CI/CD, ferramentas customizadas)  
+## **Professional Summary**  
+Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:  
+✓ **Complex system architecture** (UI, networking, data persistence)  
+✓ **Performance optimization** (90%+ FPS gain, 3k→120 lines refactoring)  
+✓ **Technical leadership** (mentored 5 senior + 3 junior developers)  
+✓ **Code quality** (SOLID principles, Clean Code, thorough documentation)  
+✓ **Automation** (CI/CD pipelines, custom tooling)  
 
 ---
 
-## **Experiência Profissional**  
+## **Professional Experience**  
 
-### **Desenvolvedor Unity Pleno (Atuando como Sênior)**  
-**Ambra Gaming** 
-*Equipe de 8 devs | Promovido após 1 ano | Responsabilidades de Sênior*  
+### **Unity Mid-Level Developer (Performing as Senior)**  
+**Ambra Gaming**
+*8-member dev team | Promoted after 1 year | Senior-level responsibilities*  
 
-**Arquitetura de Sistemas:**  
-- 🎛️ **Pipeline de Assets**:  
-  - Implementação de **Addressables** (redução de 70% no load time)  
-  - Criação de **AssetBundles** dinâmicos
-- 🕹️ **Sistema de Input**:  
-  - Arquitetura com **Unity Input System** (10+ control schemes)  
-  - Integração com **UI Toolkit**  
-- 🌐 **Sistema de Rede**:  
-  - Comunicação em tempo real com **Socket.IO** (latência <50ms)  
-  - Padrão **Observer** para sincronização
+**System Architecture:**  
+- 🎛️ **Asset Pipeline**:  
+  - Implemented **Addressables** (70% load time reduction)  
+  - Dynamic **AssetBundles** implementation
+- 🕹️ **Input System**:  
+  - **Unity Input System** architecture (10+ control schemes)  
+  - **UI Toolkit** integration
+- 🌐 **Networking**:  
+  - Real-time communication with **Socket.IO** (<50ms latency)  
+  - **Observer pattern** for data synchronization
 
-**Liderança Técnica:**  
-- 👨🏫 Mentoria para **5 devs seniors** (onboarding técnico)  
-- 📦 Desenvolvimento de **pacotes customizados** para workflow da equipe
-- 🧩 **Arquitetura modular** com:  
-  - **Zenject** (DI)  
+**Technical Leadership:**  
+- 👨🏫 Mentored **5 senior developers** (technical onboarding)  
+- 📦 Developed **custom packages** for team workflow
+- 🧩 **Modular architecture** using:  
+  - **Zenject** (Dependency Injection)  
   - **Assembly Definitions**  
-  - **Timeline** para cutscenes
+  - **Timeline** for cutscenes
 
-**Conquistas:**  
-- ⚡ **Otimização**:  
-  - 90%+ ganho de performance (30 → 120 fps)  
-  - Refatoração de **3k linhas → 120 linhas**  
-- 🤖 **Automação**:  
-  - Ferramenta Python/Qt5 para **100+ PRs automatizados**  
-  - Scripts Bash para CI/CD (**80% faster builds**)  
+**Key Achievements:**  
+- ⚡ **Optimization**:  
+  - 90%+ performance gain (30 → 120 FPS)  
+  - Refactored **3k lines → 120 lines** (single method)  
+- 🤖 **Automation**:  
+  - Python/Qt5 tool for **100+ automated PRs**  
+  - Bash scripts for CI/CD (**80% faster builds**)  
 
 ---
 
-## **Habilidades Técnicas**  
+## **Technical Skills**  
 
 **Unity Expertise:**  
 ▸ UI Toolkit • Addressables • Input System • Timeline
 ▸ Zenject • Socket.IO • Unit Testing • Profiler
 ▸ AssetBundles • Animation • ECS Concepts
 
-**Arquitetura:**  
-▸ SOLID • Clean Code • Documentação
-▸ Modular (Assembly Definitions) • DI Patterns
+**Software Architecture:**  
+▸ SOLID • Clean Code • Documentation
+▸ Modular Design • DI Patterns
 
 **DevOps:**  
 ▸ Azure DevOps • CI/CD Pipelines • Bash
-▸ Build Automation • Python Tools
+▸ Build Automation • Python Tooling
 
-**Outras:**  
+**Languages:**  
+▸ Portuguese (Native)  
+▸ English (Intermediate - Technical Proficiency)
+
+**Other:**  
 ▸ C# (.NET 6) • Python • PostgreSQL
 ▸ Git • Linux • Performance Optimization
 
 ---
 
-## **Formação**  
-**Bacharelado em Ciência da Computação**  
-CESUPA | Fev 2019 - Jan 2023 
-✓ **2º lugar da turma** (colação de grau)  
-✓ Ministrou workshops de Unity para 20+ alunos
+## **Education**  
+**B.Sc. in Computer Science**  
+CESUPA | Feb 2019 - Jan 2023
+✓ Graduated with honors (2nd in class)  
+✓ Conducted Unity workshops for 20+ students
 
 ---
 
-**Idiomas:**  
-▸ Português (Nativo)  
-▸ Inglês (Intermediário - Proficiência técnica)
-
----
-
-## **Objetivo**  
-Busco transição para **Sênior/Arquiteto Unity**, aplicando:  
-- Expertise em **arquitetura modular e otimização**  
-- Experiência em **mentoria técnica**  
-- Visão **DevOps e automação**
-- Paixão por **código limpo e documentado**    
+## **Career Objective**  
+Seeking transition to **Senior/Architect Unity** roles to leverage:  
+- Expertise in **modular architecture and optimization**  
+- Proven **technical mentorship** experience
+- **DevOps and automation** mindset
+- Passion for **clean, documented code**  
