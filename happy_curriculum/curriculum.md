@@ -9,7 +9,7 @@
 ## **Professional Summary**  
 Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:  
 ✓ **Complex system architecture** (UI, networking, data persistence)  
-✓ **Performance optimization** (90%+ FPS gain, 3k→120 lines refactoring)  
+✓ **Performance optimization** (90%+ FPS gain, 1k→57 lines refactoring)  
 ✓ **Technical leadership** (mentored 5 senior + 3 junior developers)  
 ✓ **Code quality** (SOLID principles, Clean Code, thorough documentation)  
 ✓ **Automation** (CI/CD pipelines, custom tooling)  
@@ -44,7 +44,7 @@ Unity Developer at Ambra Gaming, demonstrating senior-level expertise in:
 **Key Achievements:**  
 - ⚡ **Optimization**:  
   - 90%+ performance gain (30 → 120 FPS)  
-  - Refactored **3k lines → 120 lines** (single method)  
+  - Refactored **1k lines → 57 lines** (single method)  
 - 🤖 **Automation**:  
   - Python/Qt5 tool for **100+ automated PRs**  
   - Bash scripts for CI/CD (**80% faster builds**)  

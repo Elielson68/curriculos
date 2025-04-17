@@ -9,7 +9,7 @@
 ## **Resumo Executivo**  
 Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:  
 ✓ **Arquitetura de sistemas** complexos (UI, rede, salvamento de dados)  
-✓ **Otimização extrema** (90%+ fps gain, redução de 3k→120 linhas)  
+✓ **Otimização extrema** (90%+ fps gain, redução de 1k→57 linhas)  
 ✓ **Liderança técnica** (mentoria para 5 seniors + 3 juniors)
 ✓ **Padrões de código** (SOLID, Clean Code, documentação rigorosa)
 ✓ **Automação** (CI/CD, ferramentas customizadas)  
@@ -44,7 +44,7 @@ Desenvolvedor Unity **Pleno com expertise Sênior**, especialista em:
 **Conquistas:**  
 - ⚡ **Otimização**:  
   - 90%+ ganho de performance (30 → 120 fps)  
-  - Refatoração de **3k linhas → 120 linhas**  
+  - Refatoração de **1k linhas → 57 linhas**  
 - 🤖 **Automação**:  
   - Ferramenta Python/Qt5 para **100+ PRs automatizados**  
   - Scripts Bash para CI/CD (**80% faster builds**)  
